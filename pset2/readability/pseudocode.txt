@@ -1,0 +1,3 @@
+[]Getting User Input in String 
+[]Counting the number of letter user inputed (Shouldn't count punctuation, digits or other symbols
+[]Word

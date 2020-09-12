@@ -1,0 +1,7 @@
+[X] Allow user to input an positve integer
+[X] if not positive reprompt until you get a positve interger
+[X] if height is less than 1 or greater then 8, go back one step to reprompt
+[X] iterate from 1 till the input
+    [X] print out the number each time
+    [X] print new line
+[X] Put dots to right align the pyramind and after that replace with spaces.

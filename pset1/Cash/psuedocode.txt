@@ -1,0 +1,9 @@
+[X]Prompt user for an amount of change
+[X]Covert dollars to Cents
+[X]Computing Coins
+    [X]Keep track of remaining change owned
+    [X]Keep track of how many coins used
+[X]We are going to use the highest cents (25c,10c,5c,1c) 
+[X]Create a int var for total coin to cound
+[X]while statement for each cents statement 
+[X]Print out the number of coins in total coins used
