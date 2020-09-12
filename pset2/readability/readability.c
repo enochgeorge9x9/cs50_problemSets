@@ -25,7 +25,7 @@ int count_word(char *word)
             count += 1;
         }
     }
-    printf("word: %i\n", count);
+    printf("word: %i\n words", count);
     return count;
 }
 
@@ -34,7 +34,10 @@ int count_letter(char *letter)
     int count = 0;
     for(int i = 0,n = strlen(letter); i < n; i++)
     {
-        printf("hi")
+        if(isalnum(letter[i]))
+        {
+            count += 1;
+        }
     }
     return count;
 }
