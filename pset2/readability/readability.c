@@ -25,7 +25,7 @@ int count_word(char *word)
             count += 1;
         }
     }
-    printf("word: %i\n words", count);
+    printf("word: %i\n", count);
     return count;
 }
 
