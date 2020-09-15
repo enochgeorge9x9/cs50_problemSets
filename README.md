@@ -1,1 +1,1 @@
-#cs50 problems set for pratice in introduction of computer science
+#cs50 problems set for practice in introduction of computer science
